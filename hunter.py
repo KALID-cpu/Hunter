@@ -11,8 +11,8 @@ def banner():
     ##  ##  ##   ##  ##  ###     ##     ##   #   ## ##   
     ##  ##   #####   ##   ##    ####   #######  #### ##  
 
-    Hello investigator this is hunter madde by Natnael Sendeku 
-    this tool is made for investigation and OSINT purpose
+    Hello investigator this is hunter made by Natnael Sendeku 
+    this tool is made for investigation and OSINT purpose.
     ===========================================================1===
     ||  if you need any help you can find me on twitter and github ||
     ||       https://twitter.com/NatnaelSendeku                    ||
